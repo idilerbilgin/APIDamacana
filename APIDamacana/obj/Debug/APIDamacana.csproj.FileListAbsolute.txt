@@ -63,3 +63,7 @@ c:\users\hp pc\documents\visual studio 2013\Projects\APIDamacana\APIDamacana\obj
 C:\Users\hp pc\documents\visual studio 2013\Projects\APIDamacana\APIDamacana\obj\Debug\APIDamacana.csprojResolveAssemblyReference.cache
 C:\Users\hp pc\documents\visual studio 2013\Projects\APIDamacana\APIDamacana\obj\Debug\APIDamacana.Migrations.Initial.resources
 C:\Users\hp pc\documents\visual studio 2013\Projects\APIDamacana\APIDamacana\obj\Debug\APIDamacana.csproj.GenerateResource.Cache
+C:\Users\hp pc\Documents\GitHub\APIDamacana\APIDamacana\obj\Debug\APIDamacana.csprojResolveAssemblyReference.cache
+C:\Users\hp pc\Documents\GitHub\APIDamacana\APIDamacana\obj\Debug\APIDamacana.Migrations.Initial.resources
+C:\Users\hp pc\Documents\GitHub\APIDamacana\APIDamacana\obj\Debug\APIDamacana.csproj.GenerateResource.Cache
+C:\Users\hp pc\Documents\GitHub\APIDamacana\APIDamacana\obj\Debug\APIDamacana.dll
