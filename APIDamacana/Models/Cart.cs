@@ -10,9 +10,8 @@ namespace APIDamacana.Models
     {
         public int Id { get; set; }
         [Required]
-        public int UserId { get; set; }
 
         public decimal TotalPrice { get; set; }
-        public List<Product> Products { get; set; }
+        public virtual ICollection<Product> Productslist { get; set; } 
     }
 }

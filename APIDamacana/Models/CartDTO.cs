@@ -5,10 +5,10 @@ using System.Web;
 
 namespace APIDamacana.Models
 {
-    public class ProductDTO
+    public class CartDTO
     {
         public int Id { get; set; }
-        public string Title { get; set; }
-        public decimal Price { get; set; }
+
+        public List<int> ProductID { get; set; }
     }
 }
